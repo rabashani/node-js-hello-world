@@ -1,0 +1,1 @@
+static file from the static-files folder
